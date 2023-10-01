@@ -1,6 +1,2 @@
-# manishbarikmb.github.io
-Happy Birthday
+#Happy Birthday Didi 
 
-A simple birthday page made using Bootstrap & scrollReveal.js
-
-https://manishbarikmb.github.io/
